@@ -1,0 +1,3 @@
+Ceci est un fichier pour test. 
+Et là une autre ligne. 
+aller, une troisième.
